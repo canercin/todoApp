@@ -1,0 +1,9 @@
+.task label.checked{
+    text-decoration: line-through;
+}
+
+.list-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
